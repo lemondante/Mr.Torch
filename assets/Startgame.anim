@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Startgame",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2f05b34f-1f93-4198-ae48-e00f7030498f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "7db7bd83-8290-4e9a-a69d-6c320fa93147"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "1c62989b-e1d3-44e4-b0cb-11967fbf76c8"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "c12f52a3-6726-43b9-b3fd-f7ae1761bf5f"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "5070004d-4646-461e-941c-15a939caf19a"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "b6678c4c-3d32-4be7-83ad-f16c6514dae7"
+            }
+          },
+          {
+            "frame": 1.0833333333333333,
+            "value": {
+              "__uuid__": "1fd472e4-e1f9-49e2-9002-1804f19baf1c"
+            }
+          },
+          {
+            "frame": 1.25,
+            "value": {
+              "__uuid__": "aebf8252-b3e6-4755-b7ab-6752115e2bb0"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "04869dd7-4b7b-47e8-927e-eb63eb185ad5"
+            }
+          },
+          {
+            "frame": 1.5666666666666667,
+            "value": {
+              "__uuid__": "d31f04f3-850f-434b-b91c-d9cdfad85dc9"
+            }
+          },
+          {
+            "frame": 1.7333333333333334,
+            "value": {
+              "__uuid__": "3b907999-1336-43f1-8595-6abd98311304"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

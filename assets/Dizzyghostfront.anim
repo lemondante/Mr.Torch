@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Dizzyghostfront",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 2.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "26b1af8b-0ed7-4c32-9873-37534f6063ed"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "3e8933e8-1819-42ac-a6e6-0a543a0d6e87"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "887ca4bb-e2b7-43b2-aaf7-9a4d3cbda1e0"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "c6e11641-e737-4234-b420-fc0581ae6366"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
